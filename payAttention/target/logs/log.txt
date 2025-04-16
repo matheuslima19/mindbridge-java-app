@@ -1,0 +1,18 @@
+nov. 23, 2023 11:22:52 PM LogErro.Log exibirLog
+INFO: Registro dos Acessos
+Erro: Incorrect syntax near '('.
+Estado SQL: S0001
+Código de Erro: 102
+
+nov. 23, 2023 11:23:08 PM LogErro.Log exibirLog
+INFO: Registro dos Registros
+Erro: Conversion failed when converting date and/or time from character string.
+Estado SQL: S0001
+Código de Erro: 241
+
+nov. 23, 2023 11:23:08 PM LogErro.Log exibirLog
+INFO: Registro dos Registros
+Erro: Conversion failed when converting date and/or time from character string.
+Estado SQL: S0001
+Código de Erro: 241
+

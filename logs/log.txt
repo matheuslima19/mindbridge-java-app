@@ -1,0 +1,264 @@
+nov. 20, 2023 8:09:55 PM LogErro.Log exibirLog
+INFO: Registro das Maquinas
+Erro: No value specified for parameter 8
+Estado SQL: 07001
+Código de Erro: 0
+
+nov. 21, 2023 12:24:12 AM LogErro.Log exibirLog
+INFO: Registro dos Acessos
+Erro: Column 'fkMaquina' not found.
+Estado SQL: S0022
+Código de Erro: 0
+
+nov. 21, 2023 12:30:48 AM LogErro.Log exibirLog
+INFO: Registro dos Acessos
+Erro: Column 'fkMaquina' not found.
+Estado SQL: S0022
+Código de Erro: 0
+
+nov. 21, 2023 12:32:43 AM LogErro.Log exibirLog
+INFO: Registro dos Acessos
+Erro: Column 'fkMaquina' not found.
+Estado SQL: S0022
+Código de Erro: 0
+
+nov. 23, 2023 11:37:05 PM LogErro.Log exibirLog
+INFORMAÇÕES: Registro dos Acessos
+Erro: Conversion failed when converting date and/or time from character string.
+Estado SQL: S0001
+Código de Erro: 241
+
+nov. 23, 2023 11:37:16 PM LogErro.Log exibirLog
+INFORMAÇÕES: Registro dos Registros
+Erro: Conversion failed when converting date and/or time from character string.
+Estado SQL: S0001
+Código de Erro: 241
+
+nov. 23, 2023 11:42:11 PM LogErro.Log exibirLog
+INFORMAÇÕES: Registro dos Registros
+Erro: Conversion failed when converting date and/or time from character string.
+Estado SQL: S0001
+Código de Erro: 241
+
+nov. 23, 2023 1:03:14 PM LogErro.Log exibirLog
+INFO: Registro das Maquinas
+Erro: No value specified for parameter 8
+Estado SQL: 07001
+Código de Erro: 0
+
+nov. 23, 2023 2:35:11 PM LogErro.Log exibirLog
+INFO: Registro das Maquinas
+Erro: No value specified for parameter 8
+Estado SQL: 07001
+Código de Erro: 0
+
+nov. 23, 2023 2:47:59 PM LogErro.Log exibirLog
+INFO: Registro das Maquinas
+Erro: No value specified for parameter 8
+Estado SQL: 07001
+Código de Erro: 0
+
+nov. 23, 2023 11:22:02 PM LogErro.Log exibirLog
+INFO: Registro das Maquinas
+Erro: No value specified for parameter 8
+Estado SQL: 07001
+Código de Erro: 0
+
+nov. 23, 2023 11:57:11 PM LogErro.Log exibirLog
+INFO: Registro das Janelas
+Erro: Data truncation: Data too long for column 'titulo' at row 1
+Estado SQL: 22001
+Código de Erro: 1406
+
+nov. 23, 2023 11:57:41 PM LogErro.Log exibirLog
+INFO: Registro das Janelas
+Erro: Data truncation: Data too long for column 'titulo' at row 1
+Estado SQL: 22001
+Código de Erro: 1406
+
+nov. 24, 2023 12:01:34 AM LogErro.Log exibirLog
+INFO: Registro das Janelas
+Erro: Data truncation: Data too long for column 'titulo' at row 1
+Estado SQL: 22001
+Código de Erro: 1406
+
+nov. 24, 2023 12:27:48 AM LogErro.Log exibirLog
+INFO: Registro das Janelas
+Erro: Data truncation: Data too long for column 'titulo' at row 1
+Estado SQL: 22001
+Código de Erro: 1406
+
+nov. 24, 2023 12:28:18 AM LogErro.Log exibirLog
+INFO: Registro das Janelas
+Erro: Data truncation: Data too long for column 'titulo' at row 1
+Estado SQL: 22001
+Código de Erro: 1406
+
+nov. 24, 2023 12:38:02 AM LogErro.Log exibirLog
+INFO: Registro das Janelas
+Erro: Data truncation: Data too long for column 'titulo' at row 1
+Estado SQL: 22001
+Código de Erro: 1406
+
+nov. 24, 2023 12:40:41 AM LogErro.Log exibirLog
+INFO: Registro das Janelas
+Erro: Data truncation: Data too long for column 'titulo' at row 1
+Estado SQL: 22001
+Código de Erro: 1406
+
+nov. 24, 2023 12:57:09 AM LogErro.Log exibirLog
+INFO: Registro das Janelas
+Erro: Data truncation: Data too long for column 'titulo' at row 1
+Estado SQL: 22001
+Código de Erro: 1406
+
+nov. 24, 2023 12:57:39 AM LogErro.Log exibirLog
+INFO: Registro das Janelas
+Erro: Data truncation: Data too long for column 'titulo' at row 1
+Estado SQL: 22001
+Código de Erro: 1406
+
+nov. 25, 2023 1:45:42 PM LogErro.Log exibirLog
+INFO: Registro dos Acessos
+Erro: Cannot insert the value NULL into column 'dtRegistro', table 'Mindbridge.dbo.LogAcesso'; column does not allow nulls. INSERT fails.
+Estado SQL: 23000
+Código de Erro: 515
+
+nov. 25, 2023 1:55:28 PM LogErro.Log exibirLog
+INFO: Registro dos Acessos
+Erro: O valor não está definido para o número de parâmetro 5.
+Estado SQL: null
+Código de Erro: 0
+
+nov. 25, 2023 1:57:14 PM LogErro.Log exibirLog
+INFO: Registro dos Acessos
+Erro: A conversão de UNKNOWN em UNKNOWN não tem suporte.
+Estado SQL: null
+Código de Erro: 0
+
+nov. 25, 2023 7:04:04 PM LogErro.Log exibirLog
+INFO: Registro das Maquinas Docker
+Erro: Cannot insert the value NULL into column 'fkInstituicao', table 'Mindbridge.dbo.Maquinas'; column does not allow nulls. INSERT fails.
+Estado SQL: 23000
+Código de Erro: 515
+
+nov. 25, 2023 7:15:38 PM LogErro.Log exibirLog
+INFO: Registro das Maquinas Docker
+Erro: Cannot insert the value NULL into column 'fkInstituicao', table 'Mindbridge.dbo.Maquinas'; column does not allow nulls. INSERT fails.
+Estado SQL: 23000
+Código de Erro: 515
+
+nov. 25, 2023 7:19:35 PM LogErro.Log exibirLog
+INFO: Registro das Maquinas Docker
+Erro: Field 'fkInstituicao' doesn't have a default value
+Estado SQL: HY000
+Código de Erro: 1364
+
+nov. 25, 2023 7:19:59 PM LogErro.Log exibirLog
+INFO: Registro das Maquinas Docker
+Erro: Field 'fkInstituicao' doesn't have a default value
+Estado SQL: HY000
+Código de Erro: 1364
+
+nov. 25, 2023 7:24:11 PM LogErro.Log exibirLog
+INFO: Registro das Maquinas Docker
+Erro: Table 'mindbridge_maquina.maquinas' doesn't exist
+Estado SQL: 42S02
+Código de Erro: 1146
+
+nov. 25, 2023 7:44:03 PM LogErro.Log exibirLog
+INFO: Registro dos Registros
+Erro: Table 'mindbridge_maquina.maquinas' doesn't exist
+Estado SQL: 42S02
+Código de Erro: 1146
+
+nov. 25, 2023 7:44:06 PM LogErro.Log exibirLog
+INFO: Registro dos Registros
+Erro: Table 'mindbridge_maquina.maquinas' doesn't exist
+Estado SQL: 42S02
+Código de Erro: 1146
+
+nov. 25, 2023 7:44:08 PM LogErro.Log exibirLog
+INFO: Registro dos Registros
+Erro: Table 'mindbridge_maquina.maquinas' doesn't exist
+Estado SQL: 42S02
+Código de Erro: 1146
+
+nov. 25, 2023 7:44:11 PM LogErro.Log exibirLog
+INFO: Registro dos Registros
+Erro: Table 'mindbridge_maquina.maquinas' doesn't exist
+Estado SQL: 42S02
+Código de Erro: 1146
+
+nov. 25, 2023 7:44:16 PM LogErro.Log exibirLog
+INFO: Registro dos Registros
+Erro: Table 'mindbridge_maquina.maquinas' doesn't exist
+Estado SQL: 42S02
+Código de Erro: 1146
+
+nov. 25, 2023 7:44:21 PM LogErro.Log exibirLog
+INFO: Registro dos Registros
+Erro: Table 'mindbridge_maquina.maquinas' doesn't exist
+Estado SQL: 42S02
+Código de Erro: 1146
+
+nov. 25, 2023 7:44:26 PM LogErro.Log exibirLog
+INFO: Registro dos Registros
+Erro: Table 'mindbridge_maquina.maquinas' doesn't exist
+Estado SQL: 42S02
+Código de Erro: 1146
+
+nov. 25, 2023 7:44:31 PM LogErro.Log exibirLog
+INFO: Registro dos Registros
+Erro: Table 'mindbridge_maquina.maquinas' doesn't exist
+Estado SQL: 42S02
+Código de Erro: 1146
+
+nov. 25, 2023 7:45:29 PM LogErro.Log exibirLog
+INFO: Registro dos Registros Docker
+Erro: Unknown column 'fkMaquinas' in 'field list'
+Estado SQL: 42S22
+Código de Erro: 1054
+
+nov. 25, 2023 7:45:32 PM LogErro.Log exibirLog
+INFO: Registro dos Registros Docker
+Erro: Unknown column 'fkMaquinas' in 'field list'
+Estado SQL: 42S22
+Código de Erro: 1054
+
+nov. 26, 2023 12:12:11 AM LogErro.Log exibirLog
+INFO: Registro das Janelas
+Erro: Table 'mindbridge_maquina.maquinas' doesn't exist
+Estado SQL: 42S02
+Código de Erro: 1146
+
+nov. 26, 2023 12:25:19 AM LogErro.Log exibirLog
+INFO: Registro das Janelas
+Erro: String or binary data would be truncated in table 'Mindbridge.dbo.JanelasAbertas', column 'comando'. Truncated value: 'C:\Program Files\WindowsApps\RealtekSemiconductorCorp.RealtekAudioControl_1.35.268.0_x64__dt26b99r8h'.
+Estado SQL: S0001
+Código de Erro: 2628
+
+nov. 26, 2023 2:10:24 AM LogErro.Log exibirLog
+INFO: Registro das Janelas
+Erro: String or binary data would be truncated in table 'Mindbridge.dbo.JanelasAbertas', column 'titulo'. Truncated value: 'C:\Program Files\WindowsApps\RealtekSemiconductorCorp.RealtekAudioControl_1.35.268.0_x64__dt26b99r8h'.
+Estado SQL: S0001
+Código de Erro: 2628
+
+nov. 26, 2023 2:13:09 AM LogErro.Log exibirLog
+INFO: Registro das Janelas
+Erro: Data truncation: Data too long for column 'titulo' at row 1
+Estado SQL: 22001
+Código de Erro: 1406
+
+nov. 26, 2023 2:15:18 AM LogErro.Log exibirLog
+INFO: Registro das Janelas
+Erro: Data truncation: Data too long for column 'titulo' at row 1
+Estado SQL: 22001
+Código de Erro: 1406
+
+nov. 26, 2023 9:25:59 PM LogErro.Log exibirLog
+INFO: Registro das Janelas
+Erro: String or binary data would be truncated in table 'Mindbridge.dbo.JanelasAbertas', column 'comando'. Truncated value: 'C:\Program Files\WindowsApps\RealtekSemiconductorCorp.RealtekAudioControl_1.35.268.0_x64__dt26b99r8h'.
+Estado SQL: S0001
+Código de Erro: 2628
+
